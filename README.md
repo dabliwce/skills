@@ -23,3 +23,4 @@ npx skills add dabliwce/skills
 | [revisor-perfil-linkedin](skills/revisor-perfil-linkedin/SKILL.md) | Cole o conteúdo/PDF do seu perfil do LinkedIn para revisão seção por seção (foto, título, resumo, experiências, formação, certificados, idiomas, competências) contra um checklist de boas práticas de recrutador. |
 | [caca-vagas-linkedin](skills/caca-vagas-linkedin/SKILL.md) | Workflow de busca ativa de vaga (perfil bilíngue, foto/capa, filtro por vagas recentes) + gera a mensagem de contato para o recrutador da vaga. |
 | [auditoria-linkedin-booleana](skills/auditoria-linkedin-booleana/SKILL.md) | Audita seu perfil do LinkedIn simulando buscas booleanas de recrutador, com foco em vagas remotas internacionais. |
+| [organizador-vagas-kanban](skills/organizador-vagas-kanban/SKILL.md) | Cole o link de uma vaga: extrai a descrição, adapta seu currículo base para ATS em PDF, e registra/atualiza a vaga num kanban de candidaturas. |
