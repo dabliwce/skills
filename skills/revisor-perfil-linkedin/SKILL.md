@@ -68,6 +68,15 @@ Peça ao usuário o conteúdo atual do perfil do LinkedIn (texto colado ou PDF e
 3. Para seções com problema, sugira reescrita concreta (não apenas "melhore isso"), mantendo fidelidade ao histórico real do usuário — nunca inventar experiência, ferramenta ou resultado.
 4. Feche com uma lista curta de palavras-chave da área-alvo que valem a pena reforçar no perfil.
 
-## Observação
+## Passo final: gerar currículo ATS a partir do perfil revisado
 
-Depois de o usuário aplicar os ajustes, sugira que ele exporte o PDF atualizado do perfil e peça uma segunda rodada de revisão para validação final.
+Depois de o usuário aplicar os ajustes no LinkedIn, sugira que ele exporte o PDF atualizado do perfil e peça uma segunda rodada de revisão para validação final.
+
+Se o usuário pedir para transformar o PDF exportado do LinkedIn em currículo, siga estas regras (equivalente ao prompt original do post):
+
+- Transforme o conteúdo do PDF do LinkedIn em um currículo ATS-friendly.
+- Entregue o arquivo final em PDF.
+- Pode reescrever/reorganizar o texto livremente, mas **mantenha as palavras-chave relacionadas à área** do usuário.
+- **Não invente nada** que não esteja no PDF original do LinkedIn.
+
+Se o usuário quiser adaptar esse currículo para uma vaga específica (com aderência ATS otimizada para aquela vaga), use a skill `otimizador-curriculo-ats` em vez desta.
