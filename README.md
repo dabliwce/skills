@@ -6,7 +6,7 @@ Coleção de skills pessoais para agentes Claude/Claude Code.
 
 Skill específica:
 ```bash
-npx skills add dabliwce/skills --skill mega-brain-com-copy-thief
+npx skills add dabliwce/skills --skill otimizador-curriculo-ats
 ```
 
 Todas as skills do repo:
@@ -18,4 +18,4 @@ npx skills add dabliwce/skills
 
 | Skill | Como e quando usar |
 |---|---|
-| [mega-brain-com-copy-thief](skills/mega-brain-com-copy-thief/SKILL.md) | Placeholder — substituir pela descrição real de uso. |
+| [otimizador-curriculo-ats](skills/otimizador-curriculo-ats/SKILL.md) | Cole a descrição de uma vaga + um currículo para reescrever o currículo com máxima aderência ATS, sem inventar experiências. |
