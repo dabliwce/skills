@@ -13,10 +13,13 @@ Base: recrutadores filtram candidatos no LinkedIn por palavras-chave (ferramenta
 
 Peça ao usuário, se não fornecido:
 
-1. **Descrições de vaga (mínimo 2, idealmente 3-5)**: vagas reais e detalhadas (com responsabilidades e requisitos, não só título) para a posição/área que o usuário busca. Quanto mais detalhadas, melhor o resultado — avise o usuário disso se ele trouxer vagas rasas.
-2. **Conteúdo atual do perfil**: Header/Bio, seção Sobre Mim, Experiências profissionais (pode ser texto colado ou export do LinkedIn).
+1. **Descrições de vaga (mínimo 3, idealmente 5-8)**: vagas reais e detalhadas (com responsabilidades e requisitos completos, não só título) para a posição/área que o usuário busca. Quanto mais detalhadas e em maior número, mais preciso o padrão identificado — avise o usuário disso se ele trouxer poucas vagas ou vagas rasas.
+   - Peça vagas tanto da senioridade atual do usuário quanto da **próxima senioridade** (ex.: pleno + sênior), para o perfil já ficar posicionado para o próximo degrau de carreira.
+2. **Conteúdo atual do perfil**: Header/Bio, seção Sobre Mim, Experiências profissionais. Se o usuário tiver o PDF exportado do próprio perfil do LinkedIn, peça para compartilhar — é a fonte mais completa e fiel.
 
 ## Processo
+
+0. **Trabalhe por partes**: não tente analisar vagas + reescrever todas as seções em uma única resposta monolítica. Primeiro entregue a análise de recorrência (passo 1) e confirme com o usuário, depois siga seção por seção (Header/Bio, Sobre Mim, Experiência, Competências). Isso produz resultado mais preciso do que gerar tudo de uma vez.
 
 1. **Análise de recorrência**
    - Junte todas as descrições de vaga e identifique os requisitos, ferramentas, competências técnicas, responsabilidades e termos de mercado que se **repetem** entre elas — são esses os termos de maior peso para otimizar.
@@ -47,4 +50,4 @@ Para cada seção (Header/Bio, Sobre Mim, Experiência, Competências): texto re
 
 ## Observação
 
-Resultado varia por pessoa e histórico. Se o texto gerado não ficar natural ou fiel, ajuste iterativamente pedindo refinamentos em vez de aceitar a primeira versão.
+Resultado varia por pessoa e histórico. Se o texto gerado não ficar natural ou fiel, ajuste iterativamente pedindo refinamentos em vez de aceitar a primeira versão. Se o usuário quiser repetir o processo depois de atualizar o perfil, peça o PDF exportado do LinkedIn atualizado e rode a análise de novo.
