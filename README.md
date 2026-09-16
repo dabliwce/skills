@@ -24,3 +24,4 @@ npx skills add dabliwce/skills
 | [caca-vagas-linkedin](skills/caca-vagas-linkedin/SKILL.md) | Workflow de busca ativa de vaga (perfil bilíngue, foto/capa, filtro por vagas recentes) + gera a mensagem de contato para o recrutador da vaga. |
 | [auditoria-linkedin-booleana](skills/auditoria-linkedin-booleana/SKILL.md) | Audita seu perfil do LinkedIn simulando buscas booleanas de recrutador, com foco em vagas remotas internacionais. |
 | [organizador-vagas-kanban](skills/organizador-vagas-kanban/SKILL.md) | Cole o link de uma vaga: extrai a descrição, adapta seu currículo base para ATS em PDF, e registra/atualiza a vaga num kanban de candidaturas. |
+| [linkedin-do-zero](skills/linkedin-do-zero/SKILL.md) | Guia passo a passo para quem nunca usou o LinkedIn: criar conta, preencher o perfil do início, e navegar a busca de vagas e recrutadores. |
