@@ -25,3 +25,6 @@ npx skills add dabliwce/skills
 | [auditoria-linkedin-booleana](skills/auditoria-linkedin-booleana/SKILL.md) | Audita seu perfil do LinkedIn simulando buscas booleanas de recrutador, com foco em vagas remotas internacionais. |
 | [organizador-vagas-kanban](skills/organizador-vagas-kanban/SKILL.md) | Cole o link de uma vaga: extrai a descrição, adapta seu currículo base para ATS em PDF, e registra/atualiza a vaga num kanban de candidaturas. |
 | [linkedin-do-zero](skills/linkedin-do-zero/SKILL.md) | Guia passo a passo para quem nunca usou o LinkedIn: criar conta, preencher o perfil do início, e navegar a busca de vagas e recrutadores. |
+| [auditoria-linkedin-ssi](skills/auditoria-linkedin-ssi/SKILL.md) | Envie o PDF do perfil + os 4 scores do Social Selling Index para receber diagnóstico do pilar mais fraco e prompts prontos de correção por seção. |
+| [linkedin-score-gamificado](skills/linkedin-score-gamificado/SKILL.md) | Otimização incremental do LinkedIn (uma pergunta por vez), com normalização de senioridade, remoção de clichês, e nota comparativa 0-100 antes/depois. |
+| [curriculo-entrevista-evidencias](skills/curriculo-entrevista-evidencias/SKILL.md) | Antes de reescrever o currículo pra vaga, diagnostica aderência real, entrevista você só sobre lacunas que importam, e audita o resultado contra exagero/inconsistência. |
